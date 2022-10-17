@@ -1,0 +1,20 @@
+{
+  "name": "upages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "joi": "^17.6.3",
+    "mongoose": "^6.6.5",
+    "swagger-ui-express": "^4.5.0",
+    "uuid": "^9.0.0"
+  }
+}
